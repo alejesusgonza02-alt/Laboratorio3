@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JuegoDeCraps": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

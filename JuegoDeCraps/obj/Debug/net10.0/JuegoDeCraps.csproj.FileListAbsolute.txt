@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\JuegoDeCraps\bin\Debug\net10.0\JuegoDeCraps.exe
+C:\Users\ADMIN\source\repos\JuegoDeCraps\bin\Debug\net10.0\JuegoDeCraps.deps.json
+C:\Users\ADMIN\source\repos\JuegoDeCraps\bin\Debug\net10.0\JuegoDeCraps.runtimeconfig.json
+C:\Users\ADMIN\source\repos\JuegoDeCraps\bin\Debug\net10.0\JuegoDeCraps.dll
+C:\Users\ADMIN\source\repos\JuegoDeCraps\bin\Debug\net10.0\JuegoDeCraps.pdb
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\JuegoDeCraps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\JuegoDeCraps.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\JuegoDeCraps.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\JuegoDeCraps.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\JuegoDeCraps.dll
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\refint\JuegoDeCraps.dll
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\JuegoDeCraps.pdb
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\JuegoDeCraps.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\ref\JuegoDeCraps.dll
+C:\Users\ADMIN\source\repos\JuegoDeCraps\obj\Debug\net10.0\JuegoDeC.97AEC348.Up2Date
