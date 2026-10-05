@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Juegode Craps\bin\Debug\Juegode Craps.exe.config
+C:\Users\ADMIN\source\repos\Juegode Craps\bin\Debug\Juegode Craps.exe
+C:\Users\ADMIN\source\repos\Juegode Craps\bin\Debug\Juegode Craps.pdb
+C:\Users\ADMIN\source\repos\Juegode Craps\obj\Debug\MDI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Juegode Craps\obj\Debug\Juegode_Craps.Form1.resources
+C:\Users\ADMIN\source\repos\Juegode Craps\obj\Debug\Juegode_Craps.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Juegode Craps\obj\Debug\MDI.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Juegode Craps\obj\Debug\MDI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Juegode Craps\obj\Debug\Juegode Craps.exe
+C:\Users\ADMIN\source\repos\Juegode Craps\obj\Debug\Juegode Craps.pdb
+C:\Users\ADMIN\source\repos\Juegode Craps\obj\Debug\Juegode_Craps.Form2.resources
